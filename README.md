@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My Playlist of the moment : https://www.youtube.com/watch?v=mPymRFeTJa4
+
 <!--
 **Ldacosta7/Ldacosta7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
