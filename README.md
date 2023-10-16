@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-My Playlist of the moment : 
+Ma Playlist du moment : 
 https://youtu.be/UZ7oOhhPEWU?si=f3D0Rd9zVE-lM04S
+
+Le projet en cours : mon Portfolio.
+
+Le prochain projet : continué le Pokédex.
+
 
 <!--
 **Ldacosta7/Ldacosta7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
