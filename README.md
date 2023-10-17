@@ -3,9 +3,12 @@
 Ma Playlist du moment : 
 https://youtu.be/UZ7oOhhPEWU?si=f3D0Rd9zVE-lM04S
 
-Le projet en cours : mon Portfolio.
+Le projet en cours : mon Portfolio. 
+                      - finir la page réalisations;
+                      - ajouter un formulaire de contact fonctionnel;
 
-Le prochain projet : continué le Pokédex.
+Le prochain projet : continuer le Pokédex.
+                      - ajouter les differents div pour afficher les statistiques, le movepool etc..
 
 
 <!--
