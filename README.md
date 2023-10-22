@@ -16,6 +16,8 @@ Les projets à venir :
 
 -Fellingers (jeu de dés);
 
+Je suis a la recherche d'une alternance pour l'année a venir, si mon profil vous intéresse vous pouvez me contacter via getalucas.com
+
 <!--
 **Ldacosta7/Ldacosta7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
