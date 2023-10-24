@@ -7,6 +7,7 @@ Le projet en cours : mon Portfolio.
 
 - finir la page réalisations;
 - ajouter un formulaire de contact fonctionnel;
+- Test de la fonction mail() de php;
 
 Le prochain projet : continuer le Pokédex.
 
