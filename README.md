@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Ma Playlist du moment : 
-https://www.youtube.com/watch?v=uQCwrsOXTic&t=2475s
+https://youtu.be/mPymRFeTJa4?si=Ufa3mQNPXaYc4Ehb
 
 Le projet en cours : mon Portfolio. 
 
