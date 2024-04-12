@@ -12,7 +12,8 @@ Le prochain projet : continuer le Pokédex.
 
 Les projets à venir : 
 
--Fellingers (jeu de dés);
+- Fellingers (jeu de dés);
+- Site web pour mon mariage;
 
 Je suis a la recherche d'une alternance pour l'année a venir, si mon profil vous intéresse vous pouvez me contacter via GetALucas.com
 
